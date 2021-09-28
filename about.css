@@ -1,0 +1,28 @@
+.hobby{
+   display: grid;
+  justify-content: center;
+  color: red;
+
+}
+.hobby >h1{
+  text-decoration: underline;
+}
+.hobby > ul{
+  
+  color: violet;
+  font-size: large;
+}
+
+.family{
+  margin-top: 50px;
+  text-align: center;
+  color: red;
+}
+.family >img{
+  height: 800px;
+  width: 1000px;
+}
+
+body{
+  background-color:palegreen;
+}

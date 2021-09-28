@@ -1,0 +1,30 @@
+.priorCoding > h1{
+  text-align: center;
+  color: blue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.priorCoding > p{
+  text-align: center;
+  margin-bottom: 20px;;
+  color: red;
+}
+
+.priorCoding > dl{
+  display: grid;
+  justify-content: center;
+  grid-gap:10px;
+}
+
+.priorCoding > dl >dt{
+  color:deeppink;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body{
+  background-color:paleturquoise;
+}
+
+.priorCoding > dl >dd{
+  color:darkmagenta;
+  font-family:cursive
+}

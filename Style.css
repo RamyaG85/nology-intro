@@ -1,0 +1,28 @@
+*{
+  padding:0;
+  margin:0;
+}
+nav > ul{
+  list-style-type: none;
+  color: blue;
+  font-size: larger;
+  display: flex;
+  justify-content: space-around;
+  border: 2px solid red;
+  border-radius: 5px;
+  margin:20px;
+  padding:20px;
+  margin-bottom: 100px;
+  background-color: yellow;
+}
+
+header > marquee > h1{
+  border:2px solid green;
+  text-align: center;
+  font-family: cursive;
+   background-color: deeppink;
+  color: chartreuse;
+}
+body{
+  background-color: cyan;
+}

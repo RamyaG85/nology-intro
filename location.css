@@ -1,0 +1,9 @@
+.location{
+  text-align: center;
+  
+}
+.location > img {
+  height : 400px;
+  width: 500px;
+  margin-right: 20px;;
+}

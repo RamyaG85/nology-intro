@@ -1,0 +1,8 @@
+.name{
+  text-align: center;
+  
+}
+.name > img {
+  height : 400px;
+  width: 400px;
+}

@@ -1,0 +1,18 @@
+.developer{
+  margin-top: 100px;
+  display:grid;
+  justify-content: center;
+  color: red;
+
+}
+.developer >h1{
+  text-decoration:dotted;
+}
+.developer > ul{
+  
+  color:royalblue;
+  font-size: large;
+}
+body{
+  background-color:lightpink;
+}
